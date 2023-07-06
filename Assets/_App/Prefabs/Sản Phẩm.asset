@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
+  m_Name: "S\u1EA3n Ph\u1EA9m"
+  m_EditorClassIdentifier: 
+  SanPham:
+  - ID: 0
+    anh: {fileID: 21300000, guid: 9ab63f379e510a9409805e509ffe6240, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 1
+    anh: {fileID: 21300000, guid: ac2b2e4f65f4fe442998f05e3f7b10ce, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 2
+    anh: {fileID: 21300000, guid: fdad489b54e4eb2478667bcbf7b3d821, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "2.000.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 3
+    anh: {fileID: 21300000, guid: c9b785a488506bb44b2da8c5017ee935, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "20.000.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 4
+    anh: {fileID: 21300000, guid: e1f14c67f6ec4184a862cc3ea4978cdc, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 5
+    anh: {fileID: 21300000, guid: 3b69bfe1c976c5b4ba97e06f4d73c999, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "2.000.000 \u0111"
+    name: "Tranh Treo T\u01B0\u1EDDng Thuy\u1EC1n V\xE0ng Ph\xE1t T\xE0i"
+  - ID: 6
+    anh: {fileID: 21300000, guid: fb3f8121aec5d8243a23cdb3545c3ad7, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: 
+    name: 
+  - ID: 7
+    anh: {fileID: 21300000, guid: 3cbc012a9a1d24546b5668e4663955eb, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: 
+    name: 
+  - ID: 8
+    anh: {fileID: 21300000, guid: d1298c879e1a0774d8f778b773bbaf0e, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: 
+    name: 
+  - ID: 9
+    anh: {fileID: 21300000, guid: 92bb24e3284aaec41bce7fcd3a5f1346, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: 
+    name: 
