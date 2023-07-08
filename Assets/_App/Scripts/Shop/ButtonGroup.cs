@@ -9,7 +9,11 @@ public class ButtonGroup : MonoBehaviour
     public ButtonPage[] btns;
     public HorizontalScrollSnap HorizontalScrollSnap;
 
-  
+    void OnValidate()
+    {
+        btns = GetComponentsInChildren<ButtonPage>();
+    }
+
     void Start()
     {
         for (int i = 0; i < btns.Length; i++)
@@ -21,11 +25,8 @@ public class ButtonGroup : MonoBehaviour
                 Choose(i1);
             });
         }
-    }/// <summary>
-     /// //////////////////
-     /// </summary>
-     /// <param name="i"></param>
-///////////////
+    }
+
     public void ChooseButton(int i)
     {
         for (int j = 0; j < btns.Length; j++)
@@ -44,12 +45,6 @@ public class ButtonGroup : MonoBehaviour
         {
             QuanLyDonHang.Instance.Refresh();
         }
-    }
-
-    
-    void OnValidate()
-    {
-        btns = GetComponentsInChildren<ButtonPage>();
     }
 
     void Choose(int i)
